@@ -2,7 +2,7 @@
 title: Hire Me!
 author: Derek Gutheil
 layout: page
-permalink: /hire-me/
+permalink: /hire/
 ---
 <h2 style="text-align: center;">
   <a href="http://derekgutheil.com/wp-content/uploads/2014/01/Derek-Gutheil-Electrical-Hardware-Resume-1-8-14.pdf">Download Resume</a>
