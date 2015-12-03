@@ -9,5 +9,3 @@ categories:
   - Software
 ---
 Coming soon &#8211; project currently in progress
-
-<iframe src="https://drive.google.com/a/g.rit.edu/file/d/0B23T_8DXwAUXTU5ES3VKaE5uTjA/preview" width="560" height="315" allowfullscreen></iframe>
